@@ -18,6 +18,11 @@
       <include name="deleteContactTest"></include> 
       </methods>
       </class>
+      <class name="pktest4.CreateLeadTest">
+      <methods>
+      <include name="CreateLeadTest"/>
+      </methods>
+      </class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

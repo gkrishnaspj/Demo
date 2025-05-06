@@ -6,6 +6,7 @@
 			<class name="pktest1.CreateOrgTest" />
 			<class name="pktest2.CreateProductTest" />
 			<class name="pktest3.CreateContactTest" />
+			<class name="pktest4.CreateLeadTest" />
 		</classes>
 	</test> <!--
 	Test -->
